@@ -1,0 +1,21 @@
+{
+  "name": "bea/bea-searchwp-import-export",
+  "description": "Allows to grab SearchWP json export as json file and not copy/paste code",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Julien Maury",
+      "email": "technique@beapi.fr"
+    }
+  ],
+  "type" : "wordpress-plugin",
+  "require" : {
+    "composer/installers" : "~1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "classes/"
+    ]
+  }
+}
