@@ -9,7 +9,7 @@ This enhance SWP admin. Instead of copy/paste json export/import data in textare
 To get this work, use composer :
 
 ```
-git clone https://github.com/bea/bea-swp-import-export && cd bea-swp-import-export
+git clone https://github.com/bea/bea-searchwp-import-export && cd bea-searchwp-import-export
 composer dump-autoload
 ```
 
@@ -29,7 +29,7 @@ In case you want to include this small plugin to your project running composer y
 then run the command :
 
 ```
-composer require bea/bea-swp-import-export dev-master
+composer require bea/bea-searchwp-import-export dev-master
 ```
 
 ## Changelog ##
