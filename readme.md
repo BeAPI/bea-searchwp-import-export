@@ -9,7 +9,7 @@ This enhance SWP admin. Instead of copy/paste json export/import data in textare
 To get this work, use composer :
 
 ```
-git clone https://github.com/bea/bea-searchwp-import-export && cd bea-searchwp-import-export
+git clone https://github.com/beapi/bea-searchwp-import-export && cd bea-searchwp-import-export
 composer dump-autoload
 ```
 
